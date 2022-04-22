@@ -1,1 +1,3 @@
-# desafioclase18
+# desafioclase18:  CRUD en MongoDB
+
+Para el curso de Backend de Coderhouse Argentina.
